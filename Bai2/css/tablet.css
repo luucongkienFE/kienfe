@@ -1,0 +1,279 @@
+@media only screen and (min-width: 576px) and (max-width: 992px) {
+	.navbar{
+		position: relative;
+
+	}
+	.navbar-brand{
+		margin: 0 auto !important;
+		padding: 0 !important;
+
+	}
+	.navbar-toggler{
+		position: absolute;
+		left: 42px !important;
+		top: 25px;
+	}
+	.nav-item:hover {
+		background-color: #fafafa;
+	}
+	.search{
+		position: absolute;
+		top: 30px;
+		right: 42px !important;
+		padding: 0;
+	}
+	.navbar-toggler {
+		border: 10px solid;
+		background-color: white !important;
+		color: #ef8b59 !important;
+		font-size: 15px !important;
+	}
+	.carousel-caption{
+	width: 50%;
+	position: absolute;
+	top: 0;
+	left: 60px !important;
+}
+.section-1 h1{
+	text-align: left;
+	padding: 70px 0 10px 18px;
+	color: white;
+	font-size: 55px;
+	margin: 0;
+}
+.section-1 p{
+	text-align: left;
+	font-size: 13px;
+	padding:0 0 0 18px !important ;
+	color: white;
+	width: 70%;
+}
+.btn1{
+	position: absolute;
+	left: 18px;
+	align-items: flex-start;
+	margin: 0 ;
+	border-radius:50px;
+	border: none;
+	width: 140px;
+	height: 30px;
+	color: white;
+	background-color:#21243d ;
+	font-size: 15px;
+}
+	.search-container{
+		z-index: 5;
+	}
+	.action input{
+	width: 250px;
+	height: 30px;
+	border-radius:50px;
+	border: none !important;
+}
+.action button{
+	width: 100px;
+	height: 30px;
+	border: none;
+	color: blue;
+	border-radius:50px;
+	background-color: white;
+}
+.action button:hover{
+	border: 2px solid black;
+	color: #21243d;
+}
+	/*section-2*/
+.section-2 h1 {
+    padding-top: 35px;
+    padding-bottom: 0px;
+    font-size: 25px;
+    color: white;
+    text-align: center;
+}
+.section-2 p {
+    font-size: 15px;
+    color: white;
+    text-align: center;
+    width: 60%;
+    left: 50%;
+    transform: translateX(-50%);
+    position: relative;
+    padding-bottom: 25px;
+    margin: 0;
+}
+.section-2 img{
+	padding: 0 20px;
+}
+.section-2 h2{
+	margin: 0;
+	font-size: 20px;
+	padding: 10px 20px;
+}
+.section-2 h6{
+	font-size: 15px;
+	font-size: 13px;
+	padding-bottom: 0;
+	width: 100%;
+}
+ 		/*section-3*/
+.section-3{
+
+}
+.section-3 h1{
+ 		padding-top: 44px;
+ 		font-size: 35px;
+ 		color:#21243d ;
+ 		font-weight: 600;
+ 		margin: 0;
+ 	}
+ 	.section-3 p{
+ 		width: 100%;
+ 		padding: 20px 0;
+ 		font-size: 20px;
+ 		margin: 0;
+ 	}
+ 	.title1{
+ 		padding: 0;
+ 	}
+ 	.btn2{
+ 		border-radius:50px;
+	border: none;
+	width: 140px;
+	height: 30px;
+	color: white;
+	background-color:#21243d ;
+	margin-bottom: 55px;
+	font-weight: 600;
+	font-size: 15px;
+ 	}
+ 	.img1{
+ 		position: relative;
+ 	}
+ 	.img1 img{
+ 		position: absolute;
+ 		border-radius: 50%;
+ 		left: 50%;
+ 		left: 50%;
+    	top: 50%;
+    	width: 77%%;
+    transform: translate(-50%, -50%);
+ 	}
+ 	/*section-4*/
+ 	.section-4 .row{
+ 		padding-bottom: 30px;
+ 	}
+ 	.section-4 h2{
+ 		font-size: 35px;
+ 		padding-top: 30px;
+ 	}
+ 	.section-4 p{
+ 		font-size: 20px;
+ 		width: 82%;
+ 		padding-bottom: 30px;
+ 	}
+ 	.count-up {
+    width: 180px;
+    height: 180px;
+	}
+	.counter-count{
+		font-size: 40px;
+	}
+	.count h3{
+		font-size: 22px;
+	}
+	/*section-5*/
+	.section-5 h1{
+		padding-top: 55px;
+		font-size: 35px;
+	}
+	.section-5 p{
+		width: 100%;
+		padding: 30px 0 ;
+		font-size: 20px;
+	}
+	.btn3{
+		width: 140px;
+		height: 30px;
+		font-size: 15px;
+		margin-bottom: 55px;
+	}
+	/*section-6*/
+	.img-content img{
+		width: 150px;
+		height: 150px;
+		position: relative;
+		top: 35px;
+		left: 50%;
+		transform: translateX(-50%);
+	}
+	.img-content p{
+		position: relative;
+		font-size: 20px;
+		width: 84%;
+		left: 50%;
+		transform: translateX(-50%);
+		padding: 50px 10px 0 10px;
+		}
+		.img-content h2{
+			font-size: 30px;
+			padding-bottom: 40px;
+		}
+		.section-7 h1{
+			padding-top: 40px;
+			font-size: 35px;
+
+		}
+		.section-7 p{
+			position: absolute;
+			width: 70%;
+			font-size: 20px;
+			left: 50%;
+			
+			
+		}
+		.search1{
+
+		}
+		.search7{
+			position: relative;
+			width:100%;
+			left: 8.5%;
+			top: 140px;
+		}
+		.email{
+			width: 70%;
+			height: 40px;
+		}
+		.sub{
+			position: relative;
+			width: 120px;
+			left: -120px !important;
+			height: 40px;
+			left: 0;
+			right: ;
+
+		}
+		/*section-8*/
+		.section-8 h5{
+			padding-top: 35px;
+			padding-bottom: 20px;
+		}
+		.section-8 .row{
+			padding-bottom: 35px;
+		}
+		.list1{
+			width: 100%;
+			margin: 0;
+		}
+		.company{
+			text-align: center;
+			width: 100%;
+		}
+		.footer-content{
+			text-align: center;
+		}
+		.list-unstyled{
+			text-align: center;
+		}
+
+}
